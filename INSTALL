@@ -1,0 +1,9 @@
+Building wwtccoin
+
+See doc/readme-qt.rst for instructions on building wwtccoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of wwtccoin.
+
+See doc/build-*.txt for instructions on building wwtccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of wwtccoin.
